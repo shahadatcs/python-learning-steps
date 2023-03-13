@@ -1,0 +1,6 @@
+Hi I am Shahadat the first line after the angle bracket, we have the directory path of our file,
+line number where our breakpoint is located, and <module>. It’s basically saying that we have a 
+breakpoint in exppdb.py on line number 10 at the module level. If you introduce the breakpoint inside 
+the function, then its name will appear inside <>.  The next line is showing the code line where our 
+execution is stopped.That line is not executed yet.Then we have the pdb prompt. Now to navigate the code,
+we can use the following commandsHi I am Shahadat
